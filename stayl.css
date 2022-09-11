@@ -1,0 +1,497 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Fredoka One';
+}
+header{
+height: 862px;
+left: 0px;
+top: 0px;
+
+
+background: #F2CEDA;
+}
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 41px;
+  
+}
+.pinguin{
+    margin-top: 10px;
+}
+.bigice{
+    margin-top: 126px;
+}
+.red {
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+color: #D23166;
+}
+.list_item{
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 16px;
+color: #150101;
+opacity: 0.6;
+margin-left: 40px;
+}
+.btn-danger{
+ font-family: 'Hind Madurai';
+font-style: normal;
+margin-top: 25px;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+color: #FAFAFA;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+}
+.Sweet{
+    margin-top: 196px;
+    margin-bottom: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #0F0101;
+}
+.ice{
+    color:  #D23166;
+}
+.Feel{
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    color: #0F0101;
+    opacity: 0.9;
+    
+}
+.inside{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #0F0101;
+opacity: 0.6;
+margin-top: 35px;
+margin-bottom: 63px;
+}
+.free{
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+color: #000000;
+}
+.last{
+    margin-top: 10px;
+    margin-bottom: 28px;
+    
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+    opacity: 0.6;
+}
+.game{
+    padding-top:27px;
+    text-align: center;
+    width: 250px;
+height: 220px;
+left: 252px;
+top: 962px;
+background: #FFFFFF;
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+border-radius: 7px;
+}
+.van{
+margin-top: 32px ;
+margin-top: 33px;
+}
+.section{
+    padding: 100px 101px 108px 52px;
+    margin-left: 71px;
+}
+.free{
+    margin-top: 28px;
+    margin-bottom: 10px;
+}
+.brown{
+    margin-top: 142px;
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 600;
+font-size: 44.2px;
+line-height: 49px;
+color: #150101;
+}
+.together{
+    margin-top: 16px;
+    margin-bottom: 75px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #150101;
+
+}
+.section1{
+height: 544.5px;
+top: 1262.2px;
+
+background: #F8EDF0;
+}
+.parent{
+    margin: 59px 109px 49px 82px ;
+}
+.our{
+    margin-top: 97px;
+    margin-bottom: 64px;
+    text-align: center;
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 61px;
+    color: #150101;
+}
+.cream{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+margin-bottom: 50px;
+ 
+}
+.cake{
+    margin-bottom: 50px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+opacity: 0.6;
+}
+.royxat{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.brow{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 36px;
+color: #000000;
+
+}
+.bon{
+    margin: 11px 0px 28px 0px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+.doll{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 36px;
+color: #000000;
+padding-right: 29px;
+}
+.som{
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+text-decoration-line: line-through;
+color: #000000;
+opacity: 0.7;
+}
+.cream{
+    margin-bottom: 50px;
+}
+.evro{
+    display: flex;
+    justify-content: flex-start;
+    margin: 17px 0px 10px   0px;
+}
+#all{
+    margin-top: 110px;
+}
+#buy{
+    margin-right: 28px;
+}
+
+
+.btnFather{
+    display: flex;
+    justify-content: end;
+}
+.cayenne{
+    text-align: end;
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 36px;
+color: #000000;
+
+}
+.bonus{
+    text-align: end;
+    margin: 11px 0px 28px 0px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+opacity: 0.7; 
+
+}
+.rubl{
+    display: flex;
+    justify-content: flex-end;
+    margin: 17px 0px 10px   0px;
+}
+#sing{
+  margin-left: 83%;
+}
+.thanks{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+opacity: 0.7;
+}
+.mean{
+    display: flex;
+}
+.aroow{
+    display: flex;
+    justify-content: space-around;
+}
+.muz{
+    padding-top: 56px;
+}
+.simple{
+    margin-top: 87px;
+    margin-bottom: 20px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44.2px;
+line-height: 52px;
+color: #000000;
+}
+.section4{
+    width: 100%;
+height: 638px;
+left: 0px;
+top: 5114px;
+background: #F8EDF0;
+}
+.some{
+    margin-bottom: 31px;
+    margin-top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    color: #0F0101;
+    opacity: 0.7;
+}
+.touch{
+    margin-left: 22px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+color: #000000;
+}
+.foto{
+    display: flex;
+    margin-top: 20px;
+    
+}
+.google{
+    display: flex;
+    margin-top: 41px;
+    padding-right: 209px;
+}
+.skip{
+  
+width: 30px;
+height: 30px;
+left: 659px;
+top: 4404px;
+background: #FFFFFF;
+border-radius: 3px;
+
+}
+.Have{
+   
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 52px;
+text-align: center;
+color: #000000; 
+margin-top: 191px;
+margin-bottom: 28px;
+
+}
+.throw{
+    display: flex;
+  
+    
+}
+.input{
+    padding: 29px 506px 29px 0px;
+    text-align: center;
+}
+.set{
+    padding: 20px 50px 29px;
+    
+background: #D64374;
+border-radius: 5px;
+}
+.btn .btn-danger{
+    font-family: 'Roboto';
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+color: #FFFFFF;
+margin: auto;
+}
+.maybe{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #0F0000;
+    opacity: 0.6;
+}
+.food{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.fllow{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+color: #FFFFFF;
+}
+.section6{
+    position: absolute;
+width: 100%;
+height: 381px;
+left: 0px;
+top: 5357px;
+background: #0A0808;
+}
+.Home{
+    margin-bottom: 10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+color: #FFFFFF;
+
+}
+.pet{
+    padding: 20px 20px 29px ;
+    
+    background: #D64374;
+    border-radius: 5px;
+    
+}
+.input1 {
+    padding: 1px 254px 2px 28px;
+}
+.product{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    margin-bottom: 10px;
+}
+.cardc{
+    display: flex;
+    margin-top: 17px;
+}
+.ul-list{
+    margin-top: 150px;
+    list-style: none;
+}
+.pengivens{
+    margin-top: 70px;
+}
+.mewsle{
+    margin-top: 136px;
+    margin-bottom: 13px;
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+}
+.plastik{
+    margin-right: 15px;
+}
