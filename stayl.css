@@ -4,13 +4,12 @@
     font-family: 'Fredoka One';
 }
 header{
-height: 862px;
-left: 0px;
-top: 0px;
-
-
-background: #F2CEDA;
+    height: 862px;
+    left: 0px;
+    top: 0px;
+    background: #F2CEDA;
 }
+
 .list{
     display: flex;
     list-style: none;
