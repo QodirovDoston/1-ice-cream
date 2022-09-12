@@ -1,7 +1,10 @@
+/* <!---- Font Families----  */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto&display=swap');
 *{
     margin: 0px;
     padding: 0px;
-    font-family: 'Fredoka One';
 }
 header{
     height: 862px;
@@ -133,10 +136,6 @@ margin-top: 33px;
     padding: 100px 101px 108px 52px;
     margin-left: 71px;
 }
-.free{
-    margin-top: 28px;
-    margin-bottom: 10px;
-}
 .brown{
     margin-top: 142px;
     font-family: 'Hind Madurai';
@@ -185,7 +184,9 @@ font-size: 18px;
 line-height: 21px;
 color: #000000;
 margin-bottom: 50px;
- 
+
+margin-bottom: 50px;
+
 }
 .cake{
     margin-bottom: 50px;
@@ -239,9 +240,7 @@ text-decoration-line: line-through;
 color: #000000;
 opacity: 0.7;
 }
-.cream{
-    margin-bottom: 50px;
-}
+
 .evro{
     display: flex;
     justify-content: flex-start;
@@ -251,7 +250,7 @@ opacity: 0.7;
     margin-top: 110px;
 }
 #buy{
-    margin-right: 28px;
+    margin-left: -95px;
 }
 
 
@@ -381,18 +380,33 @@ margin-bottom: 28px;
 }
 .throw{
     display: flex;
-  
-    
+    border-style: none;
+    justify-content: center;
+
 }
 .input{
+   
     padding: 29px 506px 29px 0px;
     text-align: center;
+    border-style: none;
+    width: 637px;
+height: 74px;
+left: 433px;
+top: 5134px;
+background: #FAFAFA;
+border-radius: 5px;
 }
 .set{
-    padding: 20px 50px 29px;
-    
+    padding: 20px 50px 20px;
+    border-style: none;
 background: #D64374;
 border-radius: 5px;
+color: aliceblue;
+}
+.rover{
+    display: flex;
+    border-style: none;
+
 }
 .btn .btn-danger{
     font-family: 'Roboto';
@@ -410,6 +424,7 @@ margin: auto;
     line-height: 16px;
     color: #0F0000;
     opacity: 0.6;
+    
 }
 .food{
     font-family: 'Roboto';
@@ -450,14 +465,17 @@ color: #FFFFFF;
 
 }
 .pet{
-    padding: 20px 20px 29px ;
-    
-    background: #D64374;
+    padding: 20px 15px 20px ;
+    border-style: none;
     border-radius: 5px;
+    color: aliceblue;
+    background: #D64374;
     
 }
 .input1 {
-    padding: 1px 254px 2px 28px;
+    border-color: #D23166;
+    padding: 1px 200px 2px 22px;
+    background: black;
 }
 .product{
     font-family: 'Roboto';
